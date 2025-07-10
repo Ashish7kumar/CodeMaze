@@ -1,6 +1,3 @@
-[submodule "Problem_submission_service"]
-	path = Problem_submission_service
-	url = https://github.com/Ashish7kumar/ProblemSubmission.git
 [submodule "Solution_Evaluation_service"]
 	path = Solution_Evaluation_service
 	url = https://github.com/Ashish7kumar/Solution_Evaluation_service.git
