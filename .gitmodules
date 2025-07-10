@@ -1,0 +1,15 @@
+[submodule "Problem_submission_service"]
+	path = Problem_submission_service
+	url = https://github.com/Ashish7kumar/ProblemSubmission.git
+[submodule "Solution_Evaluation_service"]
+	path = Solution_Evaluation_service
+	url = https://github.com/Ashish7kumar/Solution_Evaluation_service.git
+[submodule "Solution_submission_service"]
+	path = Solution_submission_service
+	url = https://github.com/Ashish7kumar/Solution_submission_service
+[submodule "solution_submission_service"]
+	path = solution_submission_service
+	url = https://github.com/Ashish7kumar/Solution_submission_service.git
+[submodule "User profile"]
+	path = User profile
+	url = https://github.com/Ashish7kumar/profile-Service.git
