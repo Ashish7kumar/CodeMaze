@@ -10,3 +10,6 @@
 [submodule "User profile"]
 	path = User profile
 	url = https://github.com/Ashish7kumar/profile-Service.git
+[submodule "Problem_submission_service"]
+	path = Problem_submission_service
+	url = https://github.com/Ashish7kumar/Problem_Submission_service.git
